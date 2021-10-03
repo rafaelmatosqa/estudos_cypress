@@ -1,0 +1,29 @@
+{
+  "name": "estudos_cypress",
+  "version": "1.0.0",
+  "description": "Projeto cypress para realização de estudos desse framework de automação de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmatosqa/estudos_cypress.git"
+  },
+  "keywords": [
+    "cypress;",
+    "automação",
+    "de",
+    "testes"
+  ],
+  "author": "Rafael Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelmatosqa/estudos_cypress/issues"
+  },
+  "homepage": "https://github.com/rafaelmatosqa/estudos_cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.5.0",
+    "joi": "^17.4.2"
+  }
+}

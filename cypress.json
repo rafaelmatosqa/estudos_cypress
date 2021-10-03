@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://twitter-clone-example.herokuapp.com",
+  "viewportWidth": 1200,
+  "viewportHeight": 860,
+  "video": false,
+  "testFiles": "**/*.spec*",
+  "env": {
+    "apiUrl": "https://reqres.in"
+  }
+}
